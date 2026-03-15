@@ -3,8 +3,8 @@ import QuoteSection from '../components/QuoteSection';
 import TextSection from '../components/TextSection';
 import GalleryOfWork from '../components/GalleryOfWork';
 import Header from '../components/Header';
-import BioCard from '../components/BioCard';
 import Footer from '../components/Footer';
+import BioCard from '../components/BioCard';
 
 export default function Adham() {
   return (
