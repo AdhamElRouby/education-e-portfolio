@@ -12,7 +12,16 @@ export default function Darwish() {
       <main className="min-h-screen bg-slate-950 flex flex-col pt-20">
         <BioCard
           name="Ibrahim Darwish"
-          text={`Hello!! My name is Ibrahim Darwish, and I am a Junior studying Electronics and Communication Engineering.\n\nI chose this field because I’ve had a strong interest in working with circuits and electronic components since middle school. While my family background may have influenced my choice—my parents and elder siblings studied the same major—my passion for electronics has always been my main motivation.\n\nI began my academic journey at the University of Aberdeen before transferring to AUC after my freshman year. I have participated in several extracurricular activities, including MUNs, Student Unions, and the Electronics Association.\n\nCurrently, I serve as Chief of Operations in the Entrepreneurship Society, a role that allows me to connect with others while enjoying a collaborative work environment. I also work as an International Peer Leader in the International Programs and Services Office.`}
+          text={`Hello!!  
+
+My name is Ibrahim Darwish, I am a Junior studying Electronics and Communication Engineering. 
+
+I chose this field because ever since I was in middle school I found that I had great interest in working with circuits and electronic components. I cannot say with great certainty whether my decision was influenced by my family, given that my parents and elder siblings all studied the same major. 
+
+I started my academic journey in the University of Aberdeen before transferring to AUC after my freshman year. I have joined many extracurricular activities including; MUNs, Student Unions and the Electronics Association.
+
+Currently I am in the Entrepreneurship Society working as Chief of Operations. I enjoy this position as it has allowed me to learn and connect with others while also enjoying a pleasant work environment. Moreover I joined a work study program in the International Programs and Services Office as an International Peer Leader. 
+`}
           imageSrc="/img/darwish/1.png"
           imagePosition="right center"
         />
